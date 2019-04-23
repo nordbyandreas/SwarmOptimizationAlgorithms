@@ -1,0 +1,39 @@
+﻿  BA.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\ba.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\ba.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\ba.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\ba.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\ba.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  Bee.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\bee.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  DataReader.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\datareader.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\datareader.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Job.cpp
+  Main.cpp
+  Particle.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(195): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(230): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(254): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(277): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\particle.cpp(284): warning C4018: '<': signed/unsigned mismatch
+  PSO.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\pso.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\pso.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\pso.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\pso.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  Settings.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\settings.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Solution.cpp
+  Source.cpp
+  Tools.cpp
+  Generating code
+  0 of 1237 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  JSSP-solvers.vcxproj -> C:\Users\Andreas\Documents\GitHub\JSSP\JSSP-solvers\\bin\Win32\Release\JSSP-solvers.exe

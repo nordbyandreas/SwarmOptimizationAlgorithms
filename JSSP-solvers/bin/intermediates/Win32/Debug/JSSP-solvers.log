@@ -1,0 +1,6 @@
+﻿  DataReader.cpp
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\datareader.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\andreas\documents\github\jssp\jssp-solvers\jssp-solvers\src\datareader.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  JSSP-solvers.vcxproj -> C:\Users\Andreas\Documents\GitHub\JSSP\JSSP-solvers\\bin\Win32\Debug\JSSP-solvers.exe
